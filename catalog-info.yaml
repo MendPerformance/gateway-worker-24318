@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gateway-worker-24318
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/gateway-worker-24318
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
